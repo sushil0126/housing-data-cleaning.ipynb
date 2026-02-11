@@ -59,9 +59,12 @@ cd clean-messy-housing-data
 ## 📊 Example Outputs & Insights
 After cleaning and preprocessing, the project produces visual insights including:
 
-- Boxplots for **Area (sqft), Bedrooms, Bathrooms, Year Built, and Price($)**  
-- Histograms showing the **frequency distribution** of numerical features  
+- Boxplots for **Area (sqft), Bedrooms, Bathrooms, Year Built, and Price($)** 
+  ![Area Boxplot](images/image2.png)
+- Histograms showing the **frequency distribution** of numerical features 
+  ![Price Histogram](images/image1.png) 
 - Pie chart depicting **property distribution by location**
+  ![Location Pie Chart](images/image.png)
 
 These visualizations help in understanding the spread, skewness, and concentration of data across cities and numerical features.
 
