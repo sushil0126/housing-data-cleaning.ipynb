@@ -80,8 +80,13 @@ Shows the average house price for each construction year.
 
 ![Average Price per Year](images/image3.png)
 
-- Pie chart depicting **property distribution by location**
-  ![Location Pie Chart](images/image.png)
+---
+
+### 4️⃣ Pie Chart – Property Distribution by Location
+Shows the percentage distribution of properties across different locations.
+
+![Location Distribution Pie Chart](images/image.png)
+
 
 These visualizations help in understanding the spread, skewness, and concentration of data across cities and numerical features.
 
