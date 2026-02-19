@@ -59,10 +59,27 @@ cd clean-messy-housing-data
 ## 📊 Example Outputs & Insights
 After cleaning and preprocessing, the project produces visual insights including:
 
-- Boxplots for **Area (sqft), Bedrooms, Bathrooms, Year Built, and Price($)** 
-  ![Area Boxplot](images/image2.png)
-- Histograms showing the **frequency distribution** of numerical features 
-  ![Price Histogram](images/image1.png) 
+## 📊 Data Visualization
+
+### 1️⃣ Scatter Plot – Area vs Price
+Shows the positive relationship between house area and price.
+
+![Area vs Price Scatter](images/image1.png)
+
+---
+
+### 2️⃣ Line Plot – Year vs Price (Sorted)
+Shows how house prices vary across construction years.
+
+![Year vs Price Line](images/image2.png)
+
+---
+
+### 3️⃣ Line Plot – Average Price per Year
+Shows the average house price for each construction year.
+
+![Average Price per Year](images/image3.png)
+
 - Pie chart depicting **property distribution by location**
   ![Location Pie Chart](images/image.png)
 
